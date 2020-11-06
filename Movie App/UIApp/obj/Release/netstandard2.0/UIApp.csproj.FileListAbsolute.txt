@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\UIApp\UIApp\UIApp\bin\Release\netstandard2.0\UIApp.deps.json
+C:\Users\user\source\repos\UIApp\UIApp\UIApp\bin\Release\netstandard2.0\UIApp.dll
+C:\Users\user\source\repos\UIApp\UIApp\UIApp\bin\Release\netstandard2.0\ref\UIApp.dll
+C:\Users\user\source\repos\UIApp\UIApp\UIApp\bin\Release\netstandard2.0\UIApp.pdb
+C:\Users\user\source\repos\UIApp\UIApp\UIApp\obj\Release\netstandard2.0\UIApp.csprojAssemblyReference.cache
+C:\Users\user\source\repos\UIApp\UIApp\UIApp\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\user\source\repos\UIApp\UIApp\UIApp\obj\Release\netstandard2.0\Views\SearchView.xaml.g.cs
+C:\Users\user\source\repos\UIApp\UIApp\UIApp\obj\Release\netstandard2.0\UIApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\UIApp\UIApp\UIApp\obj\Release\netstandard2.0\UIApp.AssemblyInfo.cs
+C:\Users\user\source\repos\UIApp\UIApp\UIApp\obj\Release\netstandard2.0\UIApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UIApp\UIApp\UIApp\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\user\source\repos\UIApp\UIApp\UIApp\obj\Release\netstandard2.0\UIApp.dll
+C:\Users\user\source\repos\UIApp\UIApp\UIApp\obj\Release\netstandard2.0\ref\UIApp.dll
+C:\Users\user\source\repos\UIApp\UIApp\UIApp\obj\Release\netstandard2.0\UIApp.pdb
